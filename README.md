@@ -1,4 +1,4 @@
-# Checkout Redesign — A/B Test Analysis
+# Checkout Redesign - A/B Test Analysis
 
 **Did a streamlined checkout flow actually lift purchase conversion? A full experiment readout: significance testing, confidence intervals, validity checks, power, and segment-level effects — ending in a ship/no-ship call.**
 
