@@ -1,6 +1,6 @@
 # Checkout Redesign - A/B Test Analysis
 
-**Did a streamlined checkout flow actually lift purchase conversion? A full experiment readout: significance testing, confidence intervals, validity checks, power, and segment-level effects — ending in a ship/no-ship call.**
+**Did a streamlined checkout flow actually lift purchase conversion? A full experiment readout: significance testing, confidence intervals, validity checks, power, and segment-level effects - ending in a ship/no-ship call.**
 
 🔗 **Live dashboard:** _add your GitHub Pages link here once published_
 
